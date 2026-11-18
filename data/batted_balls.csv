@@ -1,0 +1,123 @@
+date,game_pk,batter_id,player,team,pitcher_id,pitcher,pitcher_team,result,exit_velo,launch_angle,distance,age
+2026-11-14,870099,444876,Alcides Escobar,Tiburones de La Guaira,644403,Luis Martinez,Navegantes del Magallanes,Single,96.5,7.0,125.0,39
+2026-11-14,870099,500743,Miguel Rojas,Tiburones de La Guaira,644403,Luis Martinez,Navegantes del Magallanes,Single,85.9,16.0,235.0,37
+2026-11-14,870099,699130,Jadher Areinamo,Tiburones de La Guaira,644403,Luis Martinez,Navegantes del Magallanes,Pop Out,90.5,73.0,88.0,22
+2026-11-14,870099,672356,Gabriel Arias,Tiburones de La Guaira,644403,Luis Martinez,Navegantes del Magallanes,Sac Fly,103.1,39.0,361.0,26
+2026-11-14,870099,595777,Jurickson Profar,Tiburones de La Guaira,644403,Luis Martinez,Navegantes del Magallanes,Flyout,91.8,27.0,328.0,33
+2026-11-14,870099,650506,Jose Gomez,Navegantes del Magallanes,695244,Jared Wetherbee,Tiburones de La Guaira,Home Run,98.2,28.0,361.0,29
+2026-11-14,870099,642731,Thairo Estrada,Navegantes del Magallanes,695244,Jared Wetherbee,Tiburones de La Guaira,Groundout,77.3,-21.0,9.0,30
+2026-11-14,870099,691373,Jhostynxon Garcia,Navegantes del Magallanes,695244,Jared Wetherbee,Tiburones de La Guaira,Field Error,73.8,-22.0,8.0,23
+2026-11-14,870099,591971,Breyvic Valera,Navegantes del Magallanes,695244,Jared Wetherbee,Tiburones de La Guaira,Forceout,97.4,3.0,79.0,34
+2026-11-14,870099,624636,Carlos Tocci,Tiburones de La Guaira,644403,Luis Martinez,Navegantes del Magallanes,Flyout,84.2,42.0,280.0,31
+2026-11-14,870099,444876,Alcides Escobar,Tiburones de La Guaira,644403,Luis Martinez,Navegantes del Magallanes,Forceout,61.3,-30.0,7.0,39
+2026-11-14,870099,622580,Angel Reyes,Navegantes del Magallanes,695244,Jared Wetherbee,Tiburones de La Guaira,Pop Out,79.9,71.0,109.0,31
+2026-11-14,870099,600524,Renato Núñez,Navegantes del Magallanes,695244,Jared Wetherbee,Tiburones de La Guaira,Flyout,97.6,38.0,345.0,32
+2026-11-14,870099,467055,Pablo Sandoval,Navegantes del Magallanes,695244,Jared Wetherbee,Tiburones de La Guaira,Groundout,75.6,-30.0,5.0,40
+2026-11-14,870099,500743,Miguel Rojas,Tiburones de La Guaira,644403,Luis Martinez,Navegantes del Magallanes,Groundout,65.1,11.0,104.0,37
+2026-11-14,870099,699130,Jadher Areinamo,Tiburones de La Guaira,644403,Luis Martinez,Navegantes del Magallanes,Single,85.5,-8.0,19.0,22
+2026-11-14,870099,672356,Gabriel Arias,Tiburones de La Guaira,644403,Luis Martinez,Navegantes del Magallanes,Field Error,90.5,-35.0,4.0,26
+2026-11-14,870099,595777,Jurickson Profar,Tiburones de La Guaira,644403,Luis Martinez,Navegantes del Magallanes,Sac Fly,84.4,56.0,213.0,33
+2026-11-14,870099,650506,Jose Gomez,Navegantes del Magallanes,688753,Evan Gates,Tiburones de La Guaira,Flyout,87.8,48.0,268.0,29
+2026-11-14,870099,624636,Carlos Tocci,Tiburones de La Guaira,701552,Andre Granillo,Navegantes del Magallanes,Lineout,80.9,23.0,253.0,31
+2026-11-14,870099,808337,Adriander Mejía,Tiburones de La Guaira,701552,Andre Granillo,Navegantes del Magallanes,Double,104.0,22.0,375.0,20
+2026-11-14,870099,444876,Alcides Escobar,Tiburones de La Guaira,701552,Andre Granillo,Navegantes del Magallanes,Lineout,101.1,8.0,167.0,39
+2026-11-14,870099,500743,Miguel Rojas,Tiburones de La Guaira,701552,Andre Granillo,Navegantes del Magallanes,Groundout,47.8,-6.0,14.0,37
+2026-11-14,870099,682626,Francisco Alvarez,Navegantes del Magallanes,605636,Henry Centeno,Tiburones de La Guaira,Flyout,80.9,39.0,276.0,24
+2026-11-14,870099,591971,Breyvic Valera,Navegantes del Magallanes,605636,Henry Centeno,Tiburones de La Guaira,Flyout,92.7,46.0,284.0,34
+2026-11-14,870099,622580,Angel Reyes,Navegantes del Magallanes,605636,Henry Centeno,Tiburones de La Guaira,Single,98.1,-20.0,7.0,31
+2026-11-14,870099,600524,Renato Núñez,Navegantes del Magallanes,605636,Henry Centeno,Tiburones de La Guaira,Single,72.1,27.0,234.0,32
+2026-11-14,870099,699130,Jadher Areinamo,Tiburones de La Guaira,570257,Joely Rodríguez,Navegantes del Magallanes,Single,102.4,12.0,277.0,22
+2026-11-14,870099,665922,Símon Muzziotti,Tiburones de La Guaira,570257,Joely Rodríguez,Navegantes del Magallanes,Forceout,90.0,-25.0,5.0,27
+2026-11-14,870099,506702,Sandy León,Navegantes del Magallanes,676249,Adisyn Coffey,Tiburones de La Guaira,Lineout,59.3,21.0,139.0,37
+2026-11-14,870099,702396,Junior William,Navegantes del Magallanes,676249,Adisyn Coffey,Tiburones de La Guaira,Flyout,92.6,42.0,290.0,26
+2026-11-14,870099,691373,Jhostynxon Garcia,Navegantes del Magallanes,676249,Adisyn Coffey,Tiburones de La Guaira,Lineout,100.3,11.0,184.0,23
+2026-11-14,870099,808337,Adriander Mejía,Tiburones de La Guaira,575070,Enderson Franco,Navegantes del Magallanes,Groundout,39.7,-29.0,6.0,20
+2026-11-14,870099,444876,Alcides Escobar,Tiburones de La Guaira,575070,Enderson Franco,Navegantes del Magallanes,Flyout,96.9,44.0,327.0,39
+2026-11-14,870099,682005,Rusber Estrada,Navegantes del Magallanes,622353,Ramon Santos,Tiburones de La Guaira,Groundout,88.7,-21.0,6.0,31
+2026-11-14,870099,591971,Breyvic Valera,Navegantes del Magallanes,622353,Ramon Santos,Tiburones de La Guaira,Groundout,62.0,-39.0,6.0,34
+2026-11-14,870099,596143,Luis Sardinas,Navegantes del Magallanes,622353,Ramon Santos,Tiburones de La Guaira,Flyout,96.3,39.0,338.0,33
+2026-11-14,870099,500743,Miguel Rojas,Tiburones de La Guaira,691263,Esmerlin Vinicio,Navegantes del Magallanes,Single,85.6,18.0,226.0,37
+2026-11-14,870099,665922,Símon Muzziotti,Tiburones de La Guaira,691263,Esmerlin Vinicio,Navegantes del Magallanes,Forceout,104.6,-29.0,5.0,27
+2026-11-14,870099,672356,Gabriel Arias,Tiburones de La Guaira,691263,Esmerlin Vinicio,Navegantes del Magallanes,Groundout,93.1,-24.0,7.0,26
+2026-11-14,870099,600524,Renato Núñez,Navegantes del Magallanes,627218,Emerson Martinez,Tiburones de La Guaira,Flyout,96.6,48.0,299.0,32
+2026-11-14,870099,467055,Pablo Sandoval,Navegantes del Magallanes,627218,Emerson Martinez,Tiburones de La Guaira,Groundout,97.6,-8.0,17.0,40
+2026-11-14,870099,506702,Sandy León,Navegantes del Magallanes,627218,Emerson Martinez,Tiburones de La Guaira,Groundout,90.8,-9.0,11.0,37
+2026-11-14,870099,808337,Adriander Mejía,Tiburones de La Guaira,700071,Alexandro Tovalin,Navegantes del Magallanes,Pop Out,56.0,61.0,108.0,20
+2026-11-14,870099,650506,Jose Gomez,Navegantes del Magallanes,622161,Eduardo Paredes,Tiburones de La Guaira,Flyout,96.4,29.0,374.0,29
+2026-11-14,870099,692390,Jose Cordoba,Navegantes del Magallanes,622161,Eduardo Paredes,Tiburones de La Guaira,Lineout,96.2,22.0,307.0,23
+2026-11-14,870099,596143,Luis Sardinas,Navegantes del Magallanes,606190,Jorgan Cavanerio,Tiburones de La Guaira,Lineout,91.8,25.0,310.0,33
+2026-11-14,870099,444876,Alcides Escobar,Tiburones de La Guaira,805684,Cristofer Gomez,Navegantes del Magallanes,Flyout,84.4,44.0,259.0,39
+2026-11-14,870099,692364,Cesar Quintas,Tiburones de La Guaira,805684,Cristofer Gomez,Navegantes del Magallanes,Double,107.2,18.0,345.0,23
+2026-11-14,870099,665922,Símon Muzziotti,Tiburones de La Guaira,805684,Cristofer Gomez,Navegantes del Magallanes,Flyout,96.5,29.0,365.0,27
+2026-11-14,870099,600524,Renato Núñez,Navegantes del Magallanes,673965,Caleb Freeman,Tiburones de La Guaira,Home Run,104.3,34.0,395.0,32
+2026-11-14,870099,506702,Sandy León,Navegantes del Magallanes,673965,Caleb Freeman,Tiburones de La Guaira,Forceout,32.0,71.0,35.0,37
+2026-11-14,870099,650506,Jose Gomez,Navegantes del Magallanes,673965,Caleb Freeman,Tiburones de La Guaira,Groundout,79.6,-45.0,3.0,29
+2026-11-14,870099,672356,Gabriel Arias,Tiburones de La Guaira,620445,José Mujica,Navegantes del Magallanes,Double,100.0,13.0,266.0,26
+2026-11-14,870099,595777,Jurickson Profar,Tiburones de La Guaira,620445,José Mujica,Navegantes del Magallanes,Groundout,54.6,-61.0,3.0,33
+2026-11-14,870099,624636,Carlos Tocci,Tiburones de La Guaira,620445,José Mujica,Navegantes del Magallanes,Sac Fly,84.5,23.0,282.0,31
+2026-11-14,870099,808337,Adriander Mejía,Tiburones de La Guaira,620445,José Mujica,Navegantes del Magallanes,Groundout,97.0,-11.0,11.0,20
+2026-11-14,870099,591971,Breyvic Valera,Navegantes del Magallanes,506693,Henderson Alvarez,Tiburones de La Guaira,Flyout,89.7,46.0,283.0,34
+2026-11-14,870099,596143,Luis Sardinas,Navegantes del Magallanes,506693,Henderson Alvarez,Tiburones de La Guaira,Lineout,99.9,22.0,319.0,33
+2026-11-15,870100,650506,Jose Gomez,Navegantes del Magallanes,606965,Chris Devenski,Tiburones de La Guaira,Groundout,71.1,-14.0,7.0,29
+2026-11-15,870100,642731,Thairo Estrada,Navegantes del Magallanes,606965,Chris Devenski,Tiburones de La Guaira,Lineout,95.3,18.0,305.0,30
+2026-11-15,870100,444876,Alcides Escobar,Tiburones de La Guaira,646242,Jhonathan Díaz,Navegantes del Magallanes,Groundout,47.0,-74.0,4.0,39
+2026-11-15,870100,500743,Miguel Rojas,Tiburones de La Guaira,646242,Jhonathan Díaz,Navegantes del Magallanes,Groundout,70.9,-2.0,29.0,37
+2026-11-15,870100,699130,Jadher Areinamo,Tiburones de La Guaira,646242,Jhonathan Díaz,Navegantes del Magallanes,Single,93.1,15.0,238.0,22
+2026-11-15,870100,596143,Luis Sardinas,Navegantes del Magallanes,606965,Chris Devenski,Tiburones de La Guaira,Single,90.2,16.0,239.0,33
+2026-11-15,870100,591971,Breyvic Valera,Navegantes del Magallanes,606965,Chris Devenski,Tiburones de La Guaira,Pop Out,66.5,56.0,168.0,34
+2026-11-15,870100,622580,Angel Reyes,Navegantes del Magallanes,606965,Chris Devenski,Tiburones de La Guaira,Single,70.4,37.0,233.0,31
+2026-11-15,870100,467055,Pablo Sandoval,Navegantes del Magallanes,606965,Chris Devenski,Tiburones de La Guaira,Home Run,101.3,30.0,382.0,40
+2026-11-15,870100,650506,Jose Gomez,Navegantes del Magallanes,802192,Daniel Corniel,Tiburones de La Guaira,Single,68.4,29.0,205.0,29
+2026-11-15,870100,691373,Jhostynxon Garcia,Navegantes del Magallanes,802192,Daniel Corniel,Tiburones de La Guaira,Single,82.8,26.0,282.0,23
+2026-11-15,870100,596143,Luis Sardinas,Navegantes del Magallanes,802192,Daniel Corniel,Tiburones de La Guaira,Groundout,88.3,4.0,96.0,33
+2026-11-15,870100,672356,Gabriel Arias,Tiburones de La Guaira,646242,Jhonathan Díaz,Navegantes del Magallanes,Single,89.8,4.0,110.0,26
+2026-11-15,870100,595777,Jurickson Profar,Tiburones de La Guaira,646242,Jhonathan Díaz,Navegantes del Magallanes,Single,89.0,4.0,86.0,33
+2026-11-15,870100,624636,Carlos Tocci,Tiburones de La Guaira,646242,Jhonathan Díaz,Navegantes del Magallanes,Single,88.3,11.0,173.0,31
+2026-11-15,870100,692364,Cesar Quintas,Tiburones de La Guaira,646242,Jhonathan Díaz,Navegantes del Magallanes,Double,100.9,17.0,283.0,23
+2026-11-15,870100,444876,Alcides Escobar,Tiburones de La Guaira,646242,Jhonathan Díaz,Navegantes del Magallanes,Sac Fly,86.3,43.0,248.0,39
+2026-11-15,870100,699130,Jadher Areinamo,Tiburones de La Guaira,646242,Jhonathan Díaz,Navegantes del Magallanes,Groundout,92.3,-17.0,9.0,22
+2026-11-15,870100,622580,Angel Reyes,Navegantes del Magallanes,802192,Daniel Corniel,Tiburones de La Guaira,Double,94.8,28.0,345.0,31
+2026-11-15,870100,467055,Pablo Sandoval,Navegantes del Magallanes,802192,Daniel Corniel,Tiburones de La Guaira,Groundout,88.5,-16.0,11.0,40
+2026-11-15,870100,650506,Jose Gomez,Navegantes del Magallanes,675842,Emilker Guzman,Tiburones de La Guaira,Single,64.1,35.0,215.0,29
+2026-11-15,870100,642731,Thairo Estrada,Navegantes del Magallanes,675842,Emilker Guzman,Tiburones de La Guaira,Double,85.8,9.0,144.0,30
+2026-11-15,870100,665922,Símon Muzziotti,Tiburones de La Guaira,677541,Michele Vassalotti,Navegantes del Magallanes,Groundout,97.5,-23.0,5.0,27
+2026-11-15,870100,672356,Gabriel Arias,Tiburones de La Guaira,677541,Michele Vassalotti,Navegantes del Magallanes,Flyout,100.7,43.0,319.0,26
+2026-11-15,870100,595777,Jurickson Profar,Tiburones de La Guaira,677541,Michele Vassalotti,Navegantes del Magallanes,Single,99.3,15.0,225.0,33
+2026-11-15,870100,624636,Carlos Tocci,Tiburones de La Guaira,677541,Michele Vassalotti,Navegantes del Magallanes,Single,97.3,1.0,52.0,31
+2026-11-15,870100,596143,Luis Sardinas,Navegantes del Magallanes,675842,Emilker Guzman,Tiburones de La Guaira,Single,86.1,15.0,221.0,33
+2026-11-15,870100,591971,Breyvic Valera,Navegantes del Magallanes,675842,Emilker Guzman,Tiburones de La Guaira,Lineout,99.1,9.0,179.0,34
+2026-11-15,870100,600524,Renato Núñez,Navegantes del Magallanes,675842,Emilker Guzman,Tiburones de La Guaira,Single,88.7,20.0,274.0,32
+2026-11-15,870100,444876,Alcides Escobar,Tiburones de La Guaira,677541,Michele Vassalotti,Navegantes del Magallanes,Grounded Into DP,99.5,-6.0,19.0,39
+2026-11-15,870100,808337,Adriander Mejía,Tiburones de La Guaira,677541,Michele Vassalotti,Navegantes del Magallanes,Groundout,54.4,-45.0,4.0,20
+2026-11-15,870100,650506,Jose Gomez,Navegantes del Magallanes,675842,Emilker Guzman,Tiburones de La Guaira,Lineout,73.9,31.0,262.0,29
+2026-11-15,870100,596143,Luis Sardinas,Navegantes del Magallanes,675842,Emilker Guzman,Tiburones de La Guaira,Pop Out,84.9,71.0,112.0,33
+2026-11-15,870100,699130,Jadher Areinamo,Tiburones de La Guaira,575070,Enderson Franco,Navegantes del Magallanes,Double,100.3,32.0,396.0,22
+2026-11-15,870100,665922,Símon Muzziotti,Tiburones de La Guaira,575070,Enderson Franco,Navegantes del Magallanes,Field Error,70.4,-20.0,8.0,27
+2026-11-15,870100,672356,Gabriel Arias,Tiburones de La Guaira,575070,Enderson Franco,Navegantes del Magallanes,Single,105.2,-8.0,15.0,26
+2026-11-15,870100,692364,Cesar Quintas,Tiburones de La Guaira,575070,Enderson Franco,Navegantes del Magallanes,Grounded Into DP,101.0,-7.0,20.0,23
+2026-11-15,870100,591971,Breyvic Valera,Navegantes del Magallanes,702878,Douglas Orellana,Tiburones de La Guaira,Lineout,89.7,19.0,300.0,34
+2026-11-15,870100,622580,Angel Reyes,Navegantes del Magallanes,702878,Douglas Orellana,Tiburones de La Guaira,Groundout,83.1,5.0,90.0,31
+2026-11-15,870100,699130,Jadher Areinamo,Tiburones de La Guaira,800308,Inmer Lobo,Navegantes del Magallanes,Flyout,90.9,45.0,277.0,22
+2026-11-15,870100,682005,Rusber Estrada,Navegantes del Magallanes,702878,Douglas Orellana,Tiburones de La Guaira,Lineout,51.0,36.0,141.0,31
+2026-11-15,870100,650506,Jose Gomez,Navegantes del Magallanes,702878,Douglas Orellana,Tiburones de La Guaira,Groundout,79.8,-37.0,5.0,29
+2026-11-15,870100,665922,Símon Muzziotti,Tiburones de La Guaira,800308,Inmer Lobo,Navegantes del Magallanes,Groundout,89.8,7.0,124.0,27
+2026-11-15,870100,672356,Gabriel Arias,Tiburones de La Guaira,800308,Inmer Lobo,Navegantes del Magallanes,Single,92.1,-1.0,39.0,26
+2026-11-15,870100,595777,Jurickson Profar,Tiburones de La Guaira,800308,Inmer Lobo,Navegantes del Magallanes,Field Error,97.2,30.0,376.0,33
+2026-11-15,870100,624636,Carlos Tocci,Tiburones de La Guaira,800308,Inmer Lobo,Navegantes del Magallanes,Groundout,64.9,6.0,106.0,31
+2026-11-15,870100,692364,Cesar Quintas,Tiburones de La Guaira,800308,Inmer Lobo,Navegantes del Magallanes,Single,68.1,31.0,230.0,23
+2026-11-15,870100,444876,Alcides Escobar,Tiburones de La Guaira,667385,Merfy Andrew,Navegantes del Magallanes,Single,99.6,17.0,289.0,39
+2026-11-15,870100,808337,Adriander Mejía,Tiburones de La Guaira,667385,Merfy Andrew,Navegantes del Magallanes,Single,87.0,12.0,180.0,20
+2026-11-15,870100,665922,Símon Muzziotti,Tiburones de La Guaira,667385,Merfy Andrew,Navegantes del Magallanes,Lineout,95.8,16.0,301.0,27
+2026-11-15,870100,682626,Francisco Alvarez,Navegantes del Magallanes,642857,Yapson Gomez,Tiburones de La Guaira,Home Run,109.8,22.0,417.0,24
+2026-11-15,870100,692390,Jose Cordoba,Navegantes del Magallanes,642857,Yapson Gomez,Tiburones de La Guaira,Single,101.9,-5.0,23.0,23
+2026-11-15,870100,591971,Breyvic Valera,Navegantes del Magallanes,642857,Yapson Gomez,Tiburones de La Guaira,Flyout,87.1,37.0,294.0,34
+2026-11-15,870100,672356,Gabriel Arias,Tiburones de La Guaira,620445,José Mujica,Navegantes del Magallanes,Flyout,91.9,33.0,340.0,26
+2026-11-15,870100,595777,Jurickson Profar,Tiburones de La Guaira,620445,José Mujica,Navegantes del Magallanes,Single,66.6,10.0,108.0,33
+2026-11-15,870100,624636,Carlos Tocci,Tiburones de La Guaira,620445,José Mujica,Navegantes del Magallanes,Single,87.6,0.0,39.0,31
+2026-11-15,870100,444876,Alcides Escobar,Tiburones de La Guaira,800189,Joneiker Arellano,Navegantes del Magallanes,Lineout,68.3,50.0,193.0,39
+2026-11-15,870100,682005,Rusber Estrada,Navegantes del Magallanes,642857,Yapson Gomez,Tiburones de La Guaira,Flyout,83.4,52.0,236.0,31
+2026-11-15,870100,650506,Jose Gomez,Navegantes del Magallanes,642857,Yapson Gomez,Tiburones de La Guaira,Pop Out,75.8,67.0,108.0,29
+2026-11-15,870100,682626,Francisco Alvarez,Navegantes del Magallanes,642857,Yapson Gomez,Tiburones de La Guaira,Single,97.5,13.0,211.0,24
+2026-11-15,870100,692390,Jose Cordoba,Navegantes del Magallanes,642857,Yapson Gomez,Tiburones de La Guaira,Flyout,93.5,51.0,280.0,23
+2026-11-15,870100,808337,Adriander Mejía,Tiburones de La Guaira,800189,Joneiker Arellano,Navegantes del Magallanes,Pop Out,83.6,61.0,171.0,20
+2026-11-15,870100,672356,Gabriel Arias,Tiburones de La Guaira,800189,Joneiker Arellano,Navegantes del Magallanes,Double,104.4,16.0,309.0,26
